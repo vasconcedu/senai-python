@@ -1,4 +1,4 @@
-# 🧑‍💻 Roteiro 1
+# 💻 Roteiro 1
 
 ## Exercício 1
 
