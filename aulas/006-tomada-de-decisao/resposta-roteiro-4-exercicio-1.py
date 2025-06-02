@@ -2,11 +2,11 @@ idade = int(input("Digite a sua idade: "))
 
 if idade < 0:
     print("Idade invalida")
-elif idade <= 12: 
+elif 0 <= idade <= 12: 
     print("Crianca")
-elif idade <= 17:
+elif 13 <= idade <= 17:
     print("Adolescente")
-elif idade <= 59:
+elif 18 <= idade <= 59:
     print("Adulto")
 else:
     print("Idoso")
