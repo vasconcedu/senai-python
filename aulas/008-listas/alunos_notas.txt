@@ -1,0 +1,4 @@
+Leonardo Katana,Fundamentos ninjas-10,Tecnicas avancadas com shuriken-10,Culinaria-0
+Rafael Sai,Fundamentos ninjas-8,Tecnicas avancadas com shuriken-8.5,Culinaria-1
+Michelangelo Nunchaku,Fundamentos ninjas-9.5,Tecnicas avancadas com shuriken-7,Culinaria-1.5
+Donatello Bo,Fundamentos ninjas-9,Tecnicas avancadas com shuriken-7.5,Culinaria-0
