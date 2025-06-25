@@ -14,7 +14,7 @@ Lembrete: a distância entre dois pontos `p1 = (x1, y1)` e `p2 = (x2, y2)` no pl
 
 ## Exercício 2 
 
-Escreva um programa que gera uma lista contendo 3 listas aninhadas, sendo que cada lista aninhada deve conter 3 números com ponto flutuante entre 0.0 e 10.0, gerados pseudoaleatoriamente, isto é, utilizando o módulo `random`.
+Escreva um programa que gera uma lista contendo 3 listas aninhadas, sendo que cada lista aninhada deve conter 3 números com ponto flutuante entre `0.0` e `10.0`, gerados pseudoaleatoriamente, isto é, utilizando o módulo `random`.
 
 > **🎯 Exemplo:** o seu programa deve ser capaz de gerar algo parecido com: 
 >
