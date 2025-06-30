@@ -1,0 +1,8 @@
+Moradia
+Alimentacao
+Transporte
+Saude
+Educacao
+Lazer
+Contas e servicos
+Outros
