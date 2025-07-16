@@ -48,12 +48,10 @@ while True:
 
     if bola.top <= 0 or bola.bottom >= tela_altura:
         bola_velocidade_y = -1*bola_velocidade_y
-        som_beep.play()
 
     if bola.right >= retangulo_1.left:
         if retangulo_1.top <= bola.centery <= retangulo_1.bottom:
             bola_velocidade_x = -1*bola_velocidade_x
-            som_beep.play()
 
     keys = pygame.key.get_pressed()
     if keys[pygame.K_UP]:
