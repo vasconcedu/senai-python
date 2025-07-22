@@ -34,7 +34,7 @@ def jogar():
             print("🎲 Jogada numero {}: {}!!!".format(i, numero))
             jogadas.append(numero)
         soma = soma_jogadas(jogadas)
-        print("⭐⭐⭐ A somatoria das sua jogadas eh: {}!!! ⭐⭐⭐".format(soma))
+        print("⭐⭐⭐ A somatoria das suas jogadas eh: {}!!! ⭐⭐⭐".format(soma))
     except:
         print("❌ Erro: digite um numero inteiro, humano(a)!!!\n")
         jogar()
