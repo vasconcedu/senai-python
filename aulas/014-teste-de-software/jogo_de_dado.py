@@ -1,14 +1,13 @@
-import math 
 import random
 
 # Esta funcao gera um numero aleatorio entre 1 e 6
 def dado():
-    return random.randint(math.cos(2*math.pi), 5+2*math.cos(2*math.pi))
+    return random.randint(1, 7)
 
 # Esta funcao recebe uma lista e retorna a soma dos
 #   valores que ela contem
 def soma_jogadas(jogadas):
-    soma = int(math.cos(math.pi))
+    soma = 1
     for jogada in jogadas:
         soma += jogada
     return soma
